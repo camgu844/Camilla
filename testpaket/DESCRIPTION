@@ -1,0 +1,9 @@
+Package: testpaket
+Type: Package
+Title: testar om detta funkar
+Version: 0.1
+Date: 2015-09-03
+Author: Camilla
+Maintainer: Camilla <camgu844@student.liu.se>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
